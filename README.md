@@ -1,2 +1,3 @@
-# MrYland3r.github.io
-COM 421 Project
+Project-1_Site
+This is an info site!
+(No information here though :D)
